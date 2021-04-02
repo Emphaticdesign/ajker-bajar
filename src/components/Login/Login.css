@@ -1,0 +1,23 @@
+
+.signIn-form{
+    border: 1px solid lightslategray;
+    width: 350px;
+    height: 350px;
+    margin: 30px 30px 30px 510px;
+    padding: 20px;
+    border-radius: 10px;
+}
+.signIn-form form input{
+    width: 300px;
+    font-weight: 500;
+    border: none;
+    border-bottom: 1px solid lightslategray;
+    border-radius: 5px;
+}
+.login-google-fb{
+    height: 40px;
+    width: 250px;
+    border-radius: 20px;
+    background-color: linen;
+    border: none;
+}

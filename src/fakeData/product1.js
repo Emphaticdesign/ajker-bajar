@@ -1,0 +1,4 @@
+var product1 =
+    [{"key":"B01H2E0J5M","name":"Marks Milk Powder","seller":"BLU","img":"https://lh3.googleusercontent.com/B_GNqPmuE8oRbyzvhqaNc8xz-znZrrEi8nPT7-_hQH-1eBpcrzfqoFdzO2oqLlCkP7Y8QF0=s85","price":234,"shipping":7.99},{"key":"B0713WPJKX","name":"Moushum Bay Leaves- 200gm","img":"https://lh3.googleusercontent.com/I2NNQO5nbdEg3GcexjtT3z2DDO00iwD4tfmumFSwwQb9qYFdGEZ29GJFsjoZKYi4C9wX=s85","price":134,"shipping":3.99},{"key":"B01LPZD1N6","name":"Onion Local - 1 Kg","wholePrice":"164","img":"https://lh3.googleusercontent.com/RE-uA4_sUIO4zOj9cTLmUED-sZO1oFyATByafS--4-TaL_1Mixobzh2CkWOTARbUiLIq=s85","price":164.9,"shipping":0}];
+
+export default product1;

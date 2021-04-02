@@ -1,0 +1,35 @@
+.review-item{
+    display: flex;
+    line-height: 30px;
+}
+.review-item div{
+    margin-left: 100px;
+}
+.description{
+    display: flex;
+    font-weight: 600;
+    color: dimgray;
+}
+
+.name{
+    width: 300px;
+    margin-top: 15px;
+    font-weight: 700;
+}
+.quantity{
+    width: 200px;
+    margin-top: 15px;
+    font-weight: 700;
+}
+.remove-button{
+    margin-top: 17px;
+}
+.remove-button button{
+    border: none;
+}
+.price{
+    width: 200px;
+    margin-top: 15px;
+    text-align: center;
+    font-weight: 700;
+}

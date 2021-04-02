@@ -1,0 +1,11 @@
+.cart-flex{
+    display: flex;
+    margin-left: 100px;
+    font-weight: 700;
+}
+.cart-flex span{
+    text-align: right;
+}
+.cart-flex p{
+    width: 500px;
+}
